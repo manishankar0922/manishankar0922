@@ -1,4 +1,4 @@
-# Hi, I'm Mohan Mani Shankar (Mo) 👋
+# Hi, I'm Mohan Mani Shankar 👋
 
 AI & Machine Learning student and solo founder building full-stack SaaS products for local businesses. I care about shipping fast, zero-cost architectures, and using LLMs to accelerate real-world software.
 
