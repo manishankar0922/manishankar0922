@@ -3,7 +3,6 @@
 AI & Machine Learning student and solo founder building full-stack SaaS products for local businesses. I care about shipping fast, zero-cost architectures, and using LLMs to accelerate real-world software.
 
 - 🎓 B.Tech AI/ML, Aditya Engineering College, Kakinada, Andhra Pradesh — Class of 2027
-- 🚀 Founder, **U9 Solutions** — full-stack SaaS for local businesses
 - 🌱 Currently learning: SQL → cloud data engineering (targeting remote international roles)
 - 🔭 Actively looking for **Full Stack / AI-ML / Data Engineering internships** (remote or Hyderabad-based)
 - 💬 Ask me about Next.js, Supabase, LLM API integrations, or multi-tenant SaaS architecture
