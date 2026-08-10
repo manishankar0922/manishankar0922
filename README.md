@@ -57,4 +57,3 @@ Hyperlocal delivery site for a local business — WhatsApp-order model, Telugu-f
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/mohan-mani-shankar-834970283/)
-- [U9 Solutions](https://u9solutions.vercel.app/)
