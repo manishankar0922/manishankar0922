@@ -12,11 +12,11 @@ AI & Machine Learning student and solo founder building full-stack SaaS products
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, TypeScript/JavaScript, SQL, C, C++
+**Languages:** Python, SQL, C
 
 **Frontend:** React, Next.js, Tailwind CSS, Shadcn UI, HTML5, CSS3
 
-**Backend:** Node.js, Express.js, REST APIs, JWT, RBAC
+**Backend:**  REST APIs, JWT, 
 
 **Databases:** PostgreSQL, Supabase, MySQL, Redis
 
